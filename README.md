@@ -64,3 +64,6 @@ human voice / instrument 在模型中均表現一致
 結論：采用深度 CNN 的時域學習可達到“實用準確度 + 噪聲韌性”
 兼容：
 後續很多解法（Vocal melody extraction, source separation的 F0 module）引用並改寫
+
+
+<img width="8192" height="746" alt="Monophonic Pitch Detection-2026-03-29-111011" src="https://github.com/user-attachments/assets/09c5bd9f-cd7c-4a72-9ddf-dd703e0d3803" />
